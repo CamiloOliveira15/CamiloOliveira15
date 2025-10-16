@@ -1,9 +1,29 @@
 # 👋 Olá, eu sou o Camilo Caetano  
 
 🚀 **Desenvolvedor Sênior Microsoft Power Platform**  
-Apaixonado por dados, automação e soluções que geram impacto real nos negócios. Tenho sólida experiência no desenvolvimento de projetos utilizando a **Microsoft Power Platform (Power BI, Power Apps, Power Automate e SharePoint)**, além de habilidades em **gestão de projetos, melhoria contínua e liderança de equipes**.  
+Especialista em Análise de Dados e desenvolvimento Low-Code com foco na Microsoft Power Platform, certificado (PL-300) e com background em Lean Six Sigma. Minha paixão é transformar dados brutos em insights acionáveis e otimizar processos complexos através de soluções intuitivas e eficientes.
 
-Atuo também como mentor e instrutor em Power BI, Power Apps e Power Automate, compartilhando conhecimento em comunidades e apoiando profissionais que desejam crescer na área de dados.  
+Com experiência sólida no desenvolvimento de soluções corporativas de ponta a ponta, liderei projetos que geraram visibilidade estratégica e eficiência operacional em escala latino-americana.
+
+Com o desenvolvimento de uma solução corporativa completa com Power Apps, Power Automate e Power BI para centralizar o reporte de produtividade (reduções de custo) em toda a América Latina, proporcionando visibilidade estratégica para a gestão.
+
+Também entreguei dashboards críticos que apoiaram a gestão e análise de margens, consolidando dados de múltiplas fontes para garantir confiabilidade, automação e governança da informação.
+
+Minha expertise abrange todo o ciclo de vida do desenvolvimento de soluções — desde o levantamento de requisitos e prototipagem (Figma) até a modelagem de dados, arquitetura e implementação técnica.
+
+Sou certificado Microsoft PL-300 – Power BI Data Analyst Associate e aplico continuamente boas práticas de design, usabilidade e performance em todas as entregas.
+
+Principais áreas de expertise:
+- Business Intelligence: Desenvolvimento de dashboards estratégicos em Power BI, da modelagem de dados (SQL, DAX, Power Query) à criação de visuais que apoiam a tomada de decisão executiva.
+- Desenvolvimento Low-Code: Criação de aplicativos corporativos com Power Apps e automação de fluxos de trabalho com Power Automate, integrados ao SharePoint e outras fontes de dados.
+- Arquitetura de Soluções: Experiência em todo o ciclo de vida do projeto, desde o levantamento de requisitos e prototipagem (Figma, Miro) até a implementação e governança da informação.
+
+**Certificações:**
+
+Microsoft Certified: PL-300 – Power BI Data Analyst Associate
+Lean Six Sigma Yellow Belt
+
+GitHub: github.com/CamiloOliveira15
 
 ---
 
